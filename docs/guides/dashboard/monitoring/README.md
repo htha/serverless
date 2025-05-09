@@ -100,6 +100,8 @@ Serverless Framework's Monitoring & Observability features currently support the
 - nodejs14.x
 - nodejs16.x
 - nodejs18.x
+- nodejs20.x
+- nodejs22.x
 - python3.8
 - python3.9
 - python3.10
